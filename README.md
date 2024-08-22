@@ -1,6 +1,7 @@
 # Movie Recommender System
 
 Website : https://kanti-movie-recommender.streamlit.app/
+Blog Link : https://kanti-kumar.medium.com/end-to-end-movie-recommender-system-project-cf50133bc433
 
 As we know, there are mainly three types of recommender systems:
 1. Content Based
